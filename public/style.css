@@ -1,0 +1,23 @@
+body, h1, section {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+font-family: sans-serif;
+line-height: 1.5;
+color: #202020;
+}
+ 
+
+.content {
+    padding: 40px;
+    margin: 0 auto;
+    background: #d6fef8;
+    width: 700px;
+}
+  
+input {
+    display: block;
+    margin: 5px 0;
+}
